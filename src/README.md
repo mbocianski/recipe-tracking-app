@@ -10,7 +10,7 @@ This is a basic form with several inputs including a photo of the dish to be pre
 
 *How to Use*
 
-(This page is publshed on GitHub Pages)[https://mbocianski.github.io/recipe-tracking-app/]
+[This page is publshed on GitHub Pages](https://mbocianski.github.io/recipe-tracking-app/)
 
 *Learnings*
 
